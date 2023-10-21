@@ -1,0 +1,1 @@
+/Users/oscaroceguerabibriesca/Documents/Repos/examples/rust-the-complete-guide/variables/target/debug/variables: /Users/oscaroceguerabibriesca/Documents/Repos/examples/rust-the-complete-guide/variables/src/main.rs

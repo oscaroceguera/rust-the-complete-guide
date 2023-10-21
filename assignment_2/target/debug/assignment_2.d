@@ -1,0 +1,1 @@
+/Users/oscaroceguerabibriesca/Documents/Repos/examples/rust-the-complete-guide/assignment_2/target/debug/assignment_2: /Users/oscaroceguerabibriesca/Documents/Repos/examples/rust-the-complete-guide/assignment_2/src/main.rs
